@@ -512,7 +512,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "esp32-ds3231-ntp-clock.step",
       "svg": "",
       "vrml": ""
     },
